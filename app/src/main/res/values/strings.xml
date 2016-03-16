@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Tutorial24</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="help">Help</string>
+
+    <string-array name="android_version">
+        <item>
+            cupcacke
+        </item>
+        <item>
+            doughnut
+        </item>
+        <item>
+            eclair
+        </item>
+        <item>
+            froyo
+        </item>
+        <item>
+            gingerbread
+        </item>
+        <item>
+            honeycomb
+        </item>
+        <item>
+            icecream sandwich
+        </item>
+        <item>
+            jellybean
+        </item>
+        <item>
+            kitkat
+        </item>
+        <item>
+            lollipop
+        </item>
+        <item>
+            marshmellow
+        </item>
+    </string-array>
+
+
+</resources>
